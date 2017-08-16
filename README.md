@@ -14,7 +14,7 @@
 		}
 	}
 ```
-2.在自己Modul的build.gradle中添加```compile 'com.github.yanjiabin:SwitchView:-SNAPSHOT'''```
+2.在自己Modul的build.gradle中添加```compile 'compile 'com.github.yanjiabin:YjbRecyclewView:1.0''''```
 如下:
 ```java
 dependencies {
